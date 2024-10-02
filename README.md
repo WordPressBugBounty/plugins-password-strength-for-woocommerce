@@ -1,0 +1,1 @@
+# plugins-password-strength-for-woocommerce
